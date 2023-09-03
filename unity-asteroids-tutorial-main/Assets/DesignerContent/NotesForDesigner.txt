@@ -1,0 +1,4 @@
+Hello Designer,
+ You can look at the configuration file in the Designer folder to change the game settings with ease.
+ If you want to create a new one simply copy the game configuration scriptable object file or Right click on project folder and go to create -> configuration.
+ Once you do that just replace the file in the GameManager with the older configuration file to take effect. Cheers!

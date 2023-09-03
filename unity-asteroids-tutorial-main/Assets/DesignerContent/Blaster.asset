@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29e675285a96e854dacd54c7863e1186, type: 3}
+  m_Name: Blaster
+  m_EditorClassIdentifier: 
+  powerUpType: 0
+  powerUpName: Power Up
+  powerDescriptionText: 'Blaster - gives the player a weapon that shoots crescent
+    moon shaped projectiles for 10 seconds.
+
+'
+  powerSprite: {fileID: 21300000, guid: 5fd14e72946fdd546a7ddcb70d976258, type: 3}
+  trajectoryVariance: 15
+  movementSpeed: 50
+  maxLifetime: 30
+  size: 3
